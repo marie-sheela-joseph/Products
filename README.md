@@ -1,3 +1,7 @@
+Component Architecture diagram:
+
+![image](https://user-images.githubusercontent.com/92960836/224126248-e64d1681-d8aa-41b4-9b32-695a619ed6ef.png)
+
 output:
 Resources available :
 
