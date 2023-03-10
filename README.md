@@ -79,7 +79,7 @@ DELETE request:
 
 5.3 db.json: product 21 added
 
-![image](https://user-images.githubusercontent.com/92960836/224312212-d0768247-3e65-47df-97e6-545dc38d34f7.png)
+![image](https://user-images.githubusercontent.com/92960836/224318635-60d0d8cc-b120-460f-8dfb-5b11c51be150.png)
 
 5.4 Frontend updated: product 21 added
 
