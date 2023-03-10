@@ -47,7 +47,7 @@ Loaded product details into Edit form:
 
 3.4 updated db.json: product 1 updated
 
-![image](https://user-images.githubusercontent.com/92960836/224310794-1918d99d-7b53-418d-a9c5-506d1aa7f9aa.png)
+![image](https://user-images.githubusercontent.com/92960836/224315086-8c1fa52a-c7d2-40d0-9494-cf2536f73437.png)
 
 3.5 Front end updated: product 1 updated
 
@@ -62,7 +62,7 @@ DELETE request:
 
 4.2 db.json updated: product 2 deleted 
 
-![image](https://user-images.githubusercontent.com/92960836/224311367-dd97e729-33d3-46e6-840b-7d5f0e0b5df4.png)
+![image](https://user-images.githubusercontent.com/92960836/224315128-d0528827-9562-493f-a763-43f9a9dee036.png)
 
 4.3 Front end updated: product 2 deleted 
 
