@@ -3,6 +3,7 @@ Component Architecture diagram:
 ![image](https://user-images.githubusercontent.com/92960836/224328618-7140a919-59c9-4062-9c79-f1045426a4b4.png)
 
 output:
+run "json-server --watch db.json" 
 Resources available :
 
 ![image](https://user-images.githubusercontent.com/92960836/224307282-35a4dc5d-5335-4a3b-84e7-ec966f1bd3f9.png)
